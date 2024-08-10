@@ -9,7 +9,7 @@ input,
 select,
 textarea,
 p {
-  padding: 0;
+  padding: 10;
   margin: 0;
   outline: none;
   font-family: Roboto, Arial, sans-serif;
