@@ -19,7 +19,8 @@ p {
 }
 h1 {
   position: absolute;
-  margin: 0;
+  margin: 1;
+
   font-size: 36px;
   color: #ffffff;
   z-index: 2;
