@@ -123,7 +123,7 @@
           <input type="text" name="name" placeholder="Postal / Zip code" />
           <select>
             <option value="">Country</option>
-            <option value="1">Russia</option>
+            <option value="1">Rusia</option>
             <option value="2">Germany</option>
             <option value="3">France</option>
             <option value="4">Armenia</option>
